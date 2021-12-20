@@ -1,0 +1,23 @@
+{
+	"1": ["Начальная... Требуется Advanced-лицензия!", "index.htm", []],
+	"2": ["1. Вв... Требуется Advanced-лицензия!", "vvedenie.htm", []],
+	"3": ["1.1. Добро... Требуется Advanced-лицензия!", "dobro_pozhalovat.htm", [1]],
+	"4": ["1.2. Фу... Требуется Advanced-лицензия!", "funktsional.htm", [1]],
+	"5": ["1.3. Об... Требуется Advanced-лицензия!", "ob_avtore.htm", [1]],
+	"6": ["2. Теоретиче... Требуется Advanced-лицензия!", "teoreticheskie_svedeniya.htm", []],
+	"7": ["2.1. И... Требуется Advanced-лицензия!", "istoriya.htm", [2]],
+	"8": ["2.2. Описа... Требуется Advanced-лицензия!", "opisanie_metoda.htm", [2]],
+	"9": ["2.2.1. ... Требуется Advanced-лицензия!", "algoritm.htm", [2,8]],
+	"10": ["2.2.2.... Требуется Advanced-лицензия!", "primer.htm", [2,8]],
+	"11": ["2.3. Достои... Требуется Advanced-лицензия!", "dostoinstva_metoda.htm", [2]],
+	"12": ["3. Навигация ... Требуется Advanced-лицензия!", "navigatsiya_po_prilozheniyu.htm", []],
+	"13": ["3.1. З... Требуется Advanced-лицензия!", "zastavka.htm", [3]],
+	"14": ["3.2. Количест... Требуется Advanced-лицензия!", "kolichestvo_neizvestnykh.htm", [3]],
+	"15": ["3.3. Заполн... Требуется Advanced-лицензия!", "zapolnenie_shablona.htm", [3]],
+	"16": ["3.3.1. Автоматич... Требуется Advanced-лицензия!", "avtomaticheskoe_zapolnenie.htm", [3,12]],
+	"17": ["3.3.2. Запол... Требуется Advanced-лицензия!", "zapolnenie_vruchnuyu.htm", [3,12]],
+	"18": ["3.3.3. ... Требуется Advanced-лицензия!", "ochistit.htm", [3,12]],
+	"19": ["3.4. Ре... Требуется Advanced-лицензия!", "rezultat.htm", [3]],
+	"20": ["3.5. Сохранен... Требуется Advanced-лицензия!", "sokhranenie_rezultata.htm", [3]],
+	"21": ["3.6. Вызов с... Требуется Advanced-лицензия!", "vyzov_sistemy_pomoshchi.htm", [3]]
+}

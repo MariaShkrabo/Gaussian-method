@@ -1,0 +1,5 @@
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussLibrary\GaussLibrary\bin\Debug\GaussLibrary.dll
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussLibrary\GaussLibrary\bin\Debug\GaussLibrary.pdb
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussLibrary\GaussLibrary\obj\Debug\GaussLibrary.csprojResolveAssemblyReference.cache
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussLibrary\GaussLibrary\obj\Debug\GaussLibrary.dll
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussLibrary\GaussLibrary\obj\Debug\GaussLibrary.pdb

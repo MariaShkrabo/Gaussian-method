@@ -1,0 +1,36 @@
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2\GaussServer\GaussServer\bin\Debug\GaussServer.exe.config
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2\GaussServer\GaussServer\bin\Debug\GaussServer.exe
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2\GaussServer\GaussServer\bin\Debug\GaussServer.pdb
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2\GaussServer\GaussServer\obj\Debug\GaussServer.Form1.resources
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2\GaussServer\GaussServer\obj\Debug\GaussServer.Properties.Resources.resources
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2\GaussServer\GaussServer\obj\Debug\GaussServer.csproj.GenerateResource.Cache
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2\GaussServer\GaussServer\obj\Debug\GaussServer.exe
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2\GaussServer\GaussServer\obj\Debug\GaussServer.pdb
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2 — сервер срабатывает один раз\GaussServer\GaussServer\bin\Debug\GaussServer.exe.config
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2 — сервер срабатывает один раз\GaussServer\GaussServer\obj\Debug\GaussServer.exe
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2 — сервер срабатывает один раз\GaussServer\GaussServer\obj\Debug\GaussServer.pdb
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2 — сервер срабатывает один раз\GaussServer\GaussServer\bin\Debug\GaussServer.exe
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2 — сервер срабатывает один раз\GaussServer\GaussServer\bin\Debug\GaussServer.pdb
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2 — сервер срабатывает один раз\GaussServer\GaussServer\obj\Debug\GaussServer.csprojResolveAssemblyReference.cache
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2 — сервер срабатывает один раз\GaussServer\GaussServer\obj\Debug\GaussServer.Form1.resources
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2 — сервер срабатывает один раз\GaussServer\GaussServer\obj\Debug\GaussServer.Properties.Resources.resources
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\MyCourseWork — копия попытка2 — сервер срабатывает один раз\GaussServer\GaussServer\obj\Debug\GaussServer.csproj.GenerateResource.Cache
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\bin\Debug\GaussServer.exe.config
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.exe
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.pdb
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\bin\Debug\GaussServer.exe
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\bin\Debug\GaussServer.pdb
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.csprojResolveAssemblyReference.cache
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.Form1.resources
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.Properties.Resources.resources
+D:\BNTU\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.csproj.GenerateResource.Cache
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\bin\Debug\GaussServer.exe.config
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\bin\Debug\GaussServer.exe
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\bin\Debug\GaussServer.pdb
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.csproj.AssemblyReference.cache
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.Form1.resources
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.Properties.Resources.resources
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.csproj.GenerateResource.cache
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.csproj.CoreCompileInputs.cache
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.exe
+C:\Files\2 курс\Разработка приложений\4 семестр\Курсовая работа\FinalCourseWork\GaussServer\GaussServer\obj\Debug\GaussServer.pdb
